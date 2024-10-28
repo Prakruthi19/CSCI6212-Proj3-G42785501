@@ -19,9 +19,13 @@ Check if the subset sum s/2 is possible, returning true if it is, and false othe
 **Running the Code**
 
 To run:
+
 bash
+
 Copy code
+
 javac PseudoPolynomialPartition.java
+
 java PseudoPolynomialPartition
 
 **Requirements**
